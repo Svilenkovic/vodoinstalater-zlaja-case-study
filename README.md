@@ -4,7 +4,7 @@
 
 Site for a Belgrade plumber and electrician built around a single action, the phone call, plus a work-order PWA that runs offline.
 
-**[vodoinstalaterzlaja2015.rs](https://vodoinstalaterzlaja2015.rs/)** · [Case study (in Serbian)](https://svilenkovic.com/radovi/vodoinstalater-zlaja) · [App page](https://svilenkovic.com/en/aplikacija-vodoinstalater) · [Srpski](README.sr.md)
+**[vodoinstalaterzlaja2015.rs](https://vodoinstalaterzlaja2015.rs/)** · [Case study (in Serbian)](https://svilenkovic.rs/radovi/vodoinstalater-zlaja) · [App page](https://svilenkovic.com/aplikacija-vodoinstalater) · [Srpski](README.sr.md)
 
 > [!NOTE]
 > Client project. The source code belongs to the client and stays in a private repository. This page describes what I built and how.
@@ -37,10 +37,10 @@ The site speaks Serbian and English without a second copy of the pages. Text is 
 
 | | Performance | Accessibility | Best practices | SEO |
 | :-- | :-: | :-: | :-: | :-: |
-| Mobile | 99 | 100 | 100 | 100 |
-| Desktop | 95 | 100 | 100 | 100 |
+| Mobile | 100 | 100 | 100 | 100 |
+| Desktop | 100 | 100 | 100 | 100 |
 
-PageSpeed Insights, lab test of the live site, September 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `BreadcrumbList`, `FAQPage`, `LocalBusiness`, `Plumber`.
+PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `BreadcrumbList`, `FAQPage`, `LocalBusiness`, `Plumber`.
 
 ## Screenshots
 
